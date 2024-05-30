@@ -3,10 +3,9 @@ import { Dialog, DialogPanel } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 
 const navigation = [
-  { name: "Product", href: "#" },
-  { name: "Features", href: "#" },
-  { name: "Marketplace", href: "#" },
-  { name: "Company", href: "#" },
+  { name: "Projects", href: "#" },
+  { name: "About me", href: "#" },
+  { name: "Contact", href: "#" },
 ];
 
 export default function Example() {
@@ -136,7 +135,7 @@ export default function Example() {
           </div>
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              Data to enrich your online business
+            Software designer
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
               Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui
